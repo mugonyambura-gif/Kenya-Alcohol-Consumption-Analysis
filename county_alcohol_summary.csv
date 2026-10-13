@@ -1,0 +1,48 @@
+county_code,county_name,total_respondents,valid_responses,consumed_past_year,consumption_percentage
+1,Baringo,100,29,19,65.52
+2,Bomet,93,33,16,48.48
+3,Bungoma,120,57,35,61.40
+4,Busia,93,47,26,55.32
+5,"Elgeyo Marakwet",104,28,23,82.14
+6,Embu,91,45,22,48.89
+7,Garissa,79,0,0,NULL
+8,"Homa Bay",166,44,23,52.27
+9,Isiolo,64,25,14,56.00
+10,Kajiado,81,25,20,80.00
+11,Kakamega,108,38,26,68.42
+12,Kericho,100,40,19,47.50
+13,Kiambu,138,67,45,67.16
+14,Kilifi,91,21,18,85.71
+15,Kirinyaga,91,41,18,43.90
+16,Kisii,104,27,21,77.78
+17,Kisumu,86,32,14,43.75
+18,Kitui,115,34,19,55.88
+19,Kwale,94,25,16,64.00
+20,Laikipia,94,46,34,73.91
+21,Lamu,92,8,7,87.50
+22,Machakos,114,31,18,58.06
+23,Makueni,103,28,13,46.43
+24,Mandera,87,0,0,NULL
+25,Marsabit,86,17,9,52.94
+26,Meru,109,61,42,68.85
+27,Migori,61,28,19,67.86
+28,Mombasa,78,44,31,70.45
+29,Murang’a,95,35,14,40.00
+30,Nairobi,65,27,18,66.67
+31,Nakuru,129,50,33,66.00
+32,Nandi,103,38,32,84.21
+33,Narok,93,20,9,45.00
+34,Nyamira,80,35,19,54.29
+35,Nyandarua,101,22,15,68.18
+36,Nyeri,92,27,17,62.96
+37,Samburu,80,22,15,68.18
+38,Siaya,88,48,29,60.42
+39,"Taita Taveta",99,43,31,72.09
+40,"Tana River",91,6,5,83.33
+41,"Tharaka Nithi",96,52,29,55.77
+42,"Trans Nzoia",85,38,22,57.89
+43,Turkana,71,30,25,83.33
+44,"Uasin Gishu",114,27,21,77.78
+45,Vihiga,91,27,18,66.67
+46,Wajir,84,0,0,NULL
+47,"West Pokot",100,23,19,82.61
